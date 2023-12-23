@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0OPeudeUx9OxV+ryEYwB4qq0hOoOsx8DRLJba0YbWKXSOq0xapDm/wBAQExNwsVni3J9rMnD9xFL+FEZo3kiQ==",
+  "dgSpecHash": "zhv4UOpF4EcSfsI16ldaRbJuV0SZqzgt/MLeBj1l5T5c0kkrkaX+dNBUIQY2rrNqa3PXs/HDrZ/Q6x1ZF8sOoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+  "projectFilePath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabriel.silva\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gabriel.silva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

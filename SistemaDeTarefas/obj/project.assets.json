@@ -2432,11 +2432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "projectName": "SistemaDeTarefas",
-      "projectPath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectPath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
       "packagesPath": "C:\\Users\\gabriel.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
+      "outputPath": "C:\\Users\\gabriel.silva\\Desktop\\Exercícios Dev\\SistemaTarefas\\SistemaDeTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
